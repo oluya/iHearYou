@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IHearYou3</string>
+    <string name="ihearyou">IHearYou</string>
+    <string name="say_ssomething_to_me">Say Something To Me</string>
+    <string name="say_something">Say Something</string>
+    <string name="ready_to_listen_to_you">Ready To Listen To YOu</string>
+    <string name="hey_you">HEY YOU</string>
+    <string name="blue_screen">Blue Screen</string>
+    <string name="redscreem">RedScreen</string>
+    <string name="sorry_i_only_support_red_and_blue_color">Sorry! I only Support Red and Blue Color</string>
+</resources>
